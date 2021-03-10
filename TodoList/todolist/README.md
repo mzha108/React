@@ -1,1 +1,2 @@
-This is the first React app. 
+This is the first React app.
+
